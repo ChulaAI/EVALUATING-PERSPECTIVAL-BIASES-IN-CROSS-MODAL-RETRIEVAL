@@ -1,0 +1,3 @@
+.venv
+rq2_eval/embeddings/*.pkl
+rq1_eval/embeddings/*.pkl

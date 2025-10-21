@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+utils/__pycache__/
+# evaluation_results/image-to-image/*.csv
+# evaluation_results/text-to-image/*.csv
+# evaluation_results/benchmark-results/*.json
+# evaluation_results/aggregated/*.csv
+embeddings/*.pkl
+backup_code/
