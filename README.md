@@ -32,7 +32,6 @@ Analyzes perspectival biases using the Association Bias Benchmark, examining:
 ```
 ├── README.md                           # Project documentation
 ├── requirements.txt                    # Python dependencies
-├── setup.sh                           # Setup script
 ├── .gitignore                         # Git ignore patterns
 │
 ├── rq1_eval/                          # RQ1 Cross-Modal Evaluation
