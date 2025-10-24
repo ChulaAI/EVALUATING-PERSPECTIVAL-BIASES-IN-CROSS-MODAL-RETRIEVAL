@@ -209,16 +209,6 @@ RESULTS_SAVE_PATH = "custom_results"
 - **Features**: Cultural concepts across different countries and languages
 - **Usage**: Bias measurement and fairness analysis
 
-## 🤖 Supported Models
-
-| Model Family | Variants | RQ1 Support | RQ2 Support |
-|--------------|----------|-------------|-------------|
-| **CLIP** | OpenAI CLIP, Chinese CLIP | ❌ | ✅ |
-| **ColQwen** | ColQwen2, ColQwen2.5 (3B/7B) | ✅ | ✅ |
-| **GME** | Qwen2-VL (2B/7B) | ✅ | ✅ |
-| **Jina** | jina-embeddings-v4 | ✅ | ✅ |
-| **M-CLIP** | XLM-Roberta variants | ✅ | ✅ |
-
 ## 📈 Output Formats
 
 ### Embedding Files
